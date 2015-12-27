@@ -65,11 +65,19 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="crearcategoria.aspx" />
     <Content Include="default.aspx" />
     <Content Include="inicio.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="crearcategoria.aspx.cs">
+      <DependentUpon>crearcategoria.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="crearcategoria.aspx.designer.cs">
+      <DependentUpon>crearcategoria.aspx</DependentUpon>
+    </Compile>
     <Compile Include="default.aspx.cs">
       <DependentUpon>default.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>

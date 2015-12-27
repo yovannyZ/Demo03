@@ -11,6 +11,10 @@
     <form id="form1" runat="server">
     <div>
         <h1>Bienvenido</h1>
+        <h2>Listado de Categorías</h2>
+        <asp:LinkButton ID="LinkButton1" runat="server" PostBackUrl="~/crearcategoria.aspx">Agregar</asp:LinkButton>
+        <asp:GridView ID="GridView1" runat="server">
+            </asp:GridView>
     </div>
     </form>
 </body>
