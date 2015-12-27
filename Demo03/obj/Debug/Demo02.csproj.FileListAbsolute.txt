@@ -1,0 +1,6 @@
+c:\users\administrador\documents\visual studio 2013\Projects\Demo03\Demo03\bin\Demo03.dll.config
+c:\users\administrador\documents\visual studio 2013\Projects\Demo03\Demo03\bin\Demo03.dll
+c:\users\administrador\documents\visual studio 2013\Projects\Demo03\Demo03\bin\Demo03.pdb
+c:\users\administrador\documents\visual studio 2013\Projects\Demo03\Demo03\obj\Debug\Demo02.csprojResolveAssemblyReference.cache
+c:\users\administrador\documents\visual studio 2013\Projects\Demo03\Demo03\obj\Debug\Demo03.dll
+c:\users\administrador\documents\visual studio 2013\Projects\Demo03\Demo03\obj\Debug\Demo03.pdb
